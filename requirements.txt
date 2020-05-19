@@ -1,0 +1,9 @@
+wheel
+six
+screen-search
+pynput
+numpy
+matplotlib
+Pillow
+PyAutoGUI
+opencv-python
