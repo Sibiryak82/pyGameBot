@@ -51,7 +51,7 @@ while (True):
     # cv2.putText(cap, 'Fish Hook', (top_left[0], top_left[1] - 10),
     #     cv2.FONT_HERSHEY_PLAIN, 1.0, (255, 255, 255))
 
-    cv2.imshow('Test', cap) #show window
+    #cv2.imshow('Test', cap) #show window
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
